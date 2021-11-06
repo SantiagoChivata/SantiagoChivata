@@ -1,6 +1,6 @@
 Buen dia
 
-Mi nombre es Santiago Chivata, Estudiante de ingeniería de sistemas cursando 10 ° Semestre.
+Mi nombre es Santiago Chivata, ingeniero de sistemas.
 Actualmente vivo en Bogotá, Colombia. 
 Me interesa iniciar mi perfil profesional como desarrollador Backend y Frontend.
 Actualmente estoy aprendiendo leguajes de desarrollo como Java, Python, html, CSS, JavaScript y herramientas como Git y Github.
