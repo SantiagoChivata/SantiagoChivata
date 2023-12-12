@@ -2,9 +2,9 @@ Buen dia
 
 Mi nombre es Santiago Chivata, ingeniero de sistemas.
 Actualmente vivo en Bogotá, Colombia. 
-Me interesa iniciar mi perfil profesional como desarrollador Backend y Frontend.
-Actualmente estoy aprendiendo leguajes de desarrollo como Java, Python, html, CSS, JavaScript y herramientas como Git y Github.
-Estoy buscando colaborar en un Semillero de desarrollo en alguna empresa o proyecto en el que pueda aportar mis conocimientos y al mismo tiempo fortalecer mi experiencia en este ámbito laboral.
+Con experiencia como DevOps Engineer en lenguajes de programación como Python, Groovy, herramientas como Kubernetes, Jenkins, Git, Github, Bitbucket, SonarQube, BlackDuck, Jira,Artifactory, Docker, Ansible, Jenkins y Confluence. Con habilidades en orientación al detalle,orientación a resultados y trabajo en equipo.
+
+Apasionado por las nuevas tecnologias con Inteligencia Artificial y tecnologias en la nube.
 
 Gracias por visitar este perfil.
 
